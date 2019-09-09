@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "webpack": "^4.39.3"
+  },
+  "name": "h5",
+  "description": "放大看回访",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "_fsevents@1.2.9@fsevents": "^1.2.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lun-shuai/hjhhas.git"
+  },
+  "author": "nierye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lun-shuai/hjhhas/issues"
+  },
+  "homepage": "https://github.com/lun-shuai/hjhhas#readme"
+}
