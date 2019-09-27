@@ -37,7 +37,7 @@ var _mm ={
 	},
 	getUrlParam: function(name){
 		var reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)');
-		var sesult =  window.location.search.substr(1).match(reg);
+		var result =  window.location.search.substr(1).match(reg);
 		return result ? (result[2]):null;
 	},
 	renderHtml: function(htmlTemplate,data){

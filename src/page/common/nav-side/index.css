@@ -1,13 +1,11 @@
 .nav-side{
 	float: left;
 	width: 130px;
-	
 	min-height: 100px;
-	background-color: green;	
+	/*background-color: orchid;	*/
 }
 .nav-side .nav-item{
 	height: 25px;
-	line-height: 25px;
 	font-size: 13px;
 }
 .nav-side .nav-item .link{
