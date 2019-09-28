@@ -1,7 +1,7 @@
 {
   "name": "h5",
   "version": "1.0.0",
-  "description": "放大看回访",
+  "description": "粤嵌实习",
   "main": "index.js",
   "scripts": {
     "dev": "set WEBPACK_ENV=dev && webpack-dev-server --inline --port 8089",
